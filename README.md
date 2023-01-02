@@ -1,7 +1,7 @@
 # Bilişim Öğrencisi 🧑🏻‍💻 
 
 - 🐧 Linux Kullanıcısı (Arch,Debian,Red Hat) 
-- ❤️ Kullandığım dağıtım Fedora 37 
+- ❤️ Kullandığım dağıtım Fedora 37 (Xfce ve GNOME masaüstü)
 - 👀 Meraklı 
 - 🔓 Açık kaynaklı yazılım kullanmaya çalışır
 
@@ -14,7 +14,7 @@ Fevzi Çakmak,Mustafa Kemal Atatürk'ten sonra Türkiye'nin ikinci ve son mareş
 # Informatics Student 🧑🏻‍💻
 
 - 🐧 Linux User (Arch,Debian,Red Hat)
-- ❤️ The distribution I use is Fedora 37
+- ❤️ The distribution I use is Fedora 37 (Xfce and GNOME desktop)
 - 👀 Curious
 - 🔓 Tries to use open source software
 
