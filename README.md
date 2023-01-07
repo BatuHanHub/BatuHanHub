@@ -5,6 +5,8 @@
 - 👀 Meraklı 
 - 🔓 Açık kaynaklı yazılım kullanmaya çalışır
 
+## Bloğum https://tatliyazilimci.blogspot.com/
+
 # Profil fotoğrafımdaki kişi kim?
 Fevzi Çakmak,Mustafa Kemal Atatürk'ten sonra Türkiye'nin ikinci ve son mareşalidir. Türk Silahlı Kuvvetlerinin (TSK) ilk Milli Savunma Bakanı ve ilk Genelkurmay Başkanıdır.10 Nisan 1950'de hayatını kaybetmiştir.
 
